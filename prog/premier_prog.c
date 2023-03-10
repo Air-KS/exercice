@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    printf("Merci les amoureux\n");
+    printf("Merci les amou\n");
     return (0);
 }
