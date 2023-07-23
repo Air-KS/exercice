@@ -1,3 +1,2 @@
 # exercice
-Juste pour s'entrainer et s'exercer
-
+Juste pour s'entrainer 
