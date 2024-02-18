@@ -17,7 +17,7 @@ Compilateur Exemple : ```gcc -Wall -Werror -Wextra -pedantic 0-hello_world.c -o 
 | -pedantic : | Force le compilateur à se conformer strictement à la norme ISO C et à signaler toute violation. Cette option est utile pour s'assurer que ton code est portable et peut être compilé par différents compilateurs qui suivent la norme. |
 | 0-hello_world.c : | Ce sont les fichiers source en C que tu souhaites compiler. Tu peux lister autant de fichiers que nécessaire, et ils seront tous compilés ensemble. |
 | -o 0-Hello_World | Cette option spécifie le nom de l'exécutable de sortie. Après la compilation, tu obtiendras un fichier exécutable nommé palindrome. |
-| L'utilisation de -o permet de définir un nom significatif pour le fichier exécutable, facilitant la gestion des différents programmes et leur exécution.|
+| -o | L'utilisation de -o permet de définir un nom significatif pour le fichier exécutable, facilitant la gestion des différents programmes et leur exécution.|
 
 </details>
 
