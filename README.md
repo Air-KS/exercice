@@ -10,7 +10,7 @@ Compilateur Exemple : ```gcc -Wall -Werror -Wextra -pedantic 0-hello_world.c -o 
 
 | Commande | Description |
 | ------------------------------------|----|
-| gcc / g++ : | C'est le compilateur lui-même, qui va transformer ton code source en langage C en un programme exécutable. |
+| gcc / g++ : | C'est le compilateur lui-même, qui va transformer ton code source en langage C ou C++ en un programme exécutable. |
 | -Wall : | Cette option active la majorité des avertissements possibles, ce qui est utile pour détecter des problèmes potentiels dans le code source. |
 | -Werror :| Convertit tous les avertissements en erreurs. Le compilateur traitera les avertissements comme des erreurs, ce qui signifie que le code ne compilera pas tant que ces avertissements ne seront pas résolus. |
 | -Wextra : | Active des avertissements supplémentaires qui ne sont pas couverts par -Wall. |
